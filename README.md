@@ -124,3 +124,9 @@ Repository assets:
 - OpenCV
 - InsightFace
 - YOLO
+
+# Author
+
+```text
+Nguyen Dac Duong
+```
