@@ -1,4 +1,4 @@
-# cameraIP-setup — Initial Repository Architecture
+# cameraIP-setup — Camera IP Knowledge and Setting Up
 
 A practical engineering knowledge base for understanding, configuringm and integrating IP cameras with Linux, OpenCV, RTSP streaming, and AI computer vision system.
 
